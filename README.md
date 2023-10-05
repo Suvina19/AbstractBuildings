@@ -9,9 +9,10 @@ Art form
 
 ![varA](https://github.com/Suvina19/AbstractBuildings/assets/144509711/3b8593f7-6b49-41c1-9d14-af0601b378ab)
 
+<img width="690" alt="Screenshot 2023-10-05 at 00 53 36" src="https://github.com/Suvina19/AbstractBuildings/assets/144509711/0e514ee7-8601-490b-a718-dcbe7686c3c1">
 
 
-![image](https://github.com/Suvina19/AbstractBuildings/assets/144509711/4f65ecb7-98b0-4f76-8300-4f3159433c64)
+
 
 
 
