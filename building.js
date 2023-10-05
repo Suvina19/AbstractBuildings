@@ -25,7 +25,8 @@ function drawBuilding() {
       let x1 = xPos + random(boxSize);
       let y1 = yPos + random(boxSize);
       let x2 = 10;
-      let y2 = 10;
+      let y2 = yPos + random(boxSize);
+;
 
       // Draw the rectangle
       rect(x1, y1, x2, y2);
