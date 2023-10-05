@@ -1,2 +1,7 @@
 # AbstractBuildings
 Generative art using for loops
+
+The first thing that came to mind after I tried making were random rectangles using P5. The output reminded me of the NYC skyline and as people say the "concrete jungle".
+This is an abstract art form of the concrete jungle.
+![image](https://github.com/Suvina19/AbstractBuildings/assets/144509711/c84460e2-26af-4b54-bea4-12c3b419174e)
+
